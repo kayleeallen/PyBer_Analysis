@@ -14,12 +14,12 @@ After interpreting the data, we can see that Urban cities use the app more frequ
 ![Fig6](https://user-images.githubusercontent.com/90978520/138360174-19aa429f-b5e3-45c4-ad19-60eb25c3f2df.png)
 
 
-As we can see in these two graphs, Urban cities had a higher total number of rides. Rural cities tend to have higher fares, but few drivers and rides. 
+As we can see in these two graphs, Urban cities had a higher total number of rides. Rural cities tend to have higher fares, but fewer drivers and rides. 
 Suburban cities have a moderate number of rides, and fares tend to be higher in Suburban cities than in Urban cities.
 
 ![Fig4](https://user-images.githubusercontent.com/90978520/138360016-b6e11fdd-a398-49e1-9b77-45a66839c66f.png)
 
-As displayed in the graph above, Urban cities have more drives that Suburban and Rural cities as well.
+As displayed in the graph above, Urban cities have more drivers than Suburban and Rural cities as well.
 
 ![Fig5](https://user-images.githubusercontent.com/90978520/138360340-ec7b546e-4f51-484a-9c6a-30109ff77d20.png)
 
