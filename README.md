@@ -1,9 +1,9 @@
 # PyBer_Analysis
-##Overview
+## Overview
 The purpose of this project was to analyze data from ride-sharing app PyBer. Once the data was cleaned, we used the data to gain insight
 on use of the app by city type.
 
-##Results
+## Results
 
 After interpreting the data, we can see that Urban cities use the app more frequently than Suburban and Rural cities.
 
