@@ -5,7 +5,7 @@ on use of the app by city type.
 
 ## Results
 
-After interpreting the data, we can see that people from Urban cities use the app more frequently than suburban and rural cities.
+After interpreting the data, we can see that people from urban cities use the app more frequently than suburban and rural cities.
 
 ![Fig1](https://user-images.githubusercontent.com/90978520/138359717-1f3b3c14-b762-467a-a860-fdd1d2a8f2a3.png)
 
