@@ -25,5 +25,7 @@ As displayed in the graph above, Urban cities have more drivers than Suburban an
 
 While Rural cities tend to have higher fares, Urban cities account for the majority of fares. 
 
+![PyBer_fare_summary2](https://user-images.githubusercontent.com/90978520/138614502-4c952535-d1a8-4b0f-9f97-1152cbd5ac02.png)
+
 From the monthly analysis, we can see that Urban fare prices fluctuate the most, with the lowest fare price of 60 in January and peaking at over 100 near the end of February.
 All city types peaked at the end of February.
