@@ -27,5 +27,6 @@ While Rural cities tend to have higher fares, Urban cities account for the major
 
 ![PyBer_fare_summary2](https://user-images.githubusercontent.com/90978520/138614536-ca8e872a-3f07-46f6-8923-fcefbc6b78f4.png)
 
-From the monthly analysis, we can see that Urban fare prices fluctuate the most, with the lowest fare price of 60 in January and peaking at over 100 near the end of February.
-All city types peaked at the end of February
+The monthly analysis further supports the observation that Urban cities consistently generates more business than rural or suburban cities. 
+All the city types experienced a peak near the end of February, though rural cities had their highest peak at the beginning of April.
+The total fares from urban cities fluctuated the most, with a range from approximately $1,750 in January to a peak of almost $2,500 at the end of February and again peaking at about the same amount early in March. 
